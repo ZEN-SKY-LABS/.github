@@ -1,34 +1,35 @@
 # ZEN SKY LABS
 
-> Building intelligent systems for the future.
+> Engineering Intelligent Systems for the Future.
 
-ZEN SKY LABS is a software innovation division under **Future Innovations LK**(https://futureinnovations.lk), focused on designing and developing modern business management systems, automation tools, and scalable digital platforms.
+ZEN SKY LABS is a software innovation division under  
+[Future Innovations LK](https://futureinnovations.lk), focused on designing and developing modern business management systems, automation platforms, and scalable digital infrastructure.
 
 ---
 
 ## 🚀 About Us
 
-ZEN SKY LABS builds powerful, efficient, and scalable software solutions designed for real-world business operations.
+ZEN SKY LABS builds powerful, efficient, and scalable software solutions engineered for real-world business operations.
 
-Our focus areas include:
+Our core focus areas include:
 
-- 🧾 ERP Systems
-- 🛒 POS Systems
-- 📦 Inventory & Supply Chain Tools
-- 👥 CRM Platforms
-- 📊 Business Analytics
+- 🧾 Enterprise Resource Planning (ERP)
+- 🛒 Point of Sale (POS) Systems
+- 📦 Inventory & Supply Chain Management
+- 👥 Customer Relationship Management (CRM)
+- 📊 Business Intelligence & Analytics
 - ⚙️ Automation & Smart Systems
-- ☁️ Cloud-based SaaS Applications
+- ☁️ Cloud-Based SaaS Platforms
 
-We aim to create reliable systems that are cleanly engineered, performance-optimized, and built for growth.
+We prioritize clean architecture, performance optimization, and long-term scalability in every system we build.
 
 ---
 
-## 🧠 Our Vision
+## 🧠 Vision
 
-To design intelligent software systems that empower businesses to operate smarter, faster, and more efficiently.
+To create intelligent software systems that empower businesses to operate smarter, faster, and more efficiently.
 
-We believe in:
+Our principles:
 
 - Simplicity in design
 - Precision in engineering
@@ -37,9 +38,9 @@ We believe in:
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technology Stack
 
-Our projects may include technologies such as:
+Depending on the project, our systems may utilize:
 
 - TypeScript
 - Node.js
@@ -51,19 +52,17 @@ Our projects may include technologies such as:
 - Docker
 - Cloud Infrastructure
 
-(Tech stack may vary per project.)
-
 ---
 
 ## 🧩 Current Focus
 
-ZEN SKY LABS is currently focused on developing modern business management software tailored for growing enterprises.
+ZEN SKY LABS is currently developing next-generation business management software designed for growing enterprises and scalable deployment.
 
-More product details will be shared as projects mature.
+Further product details will be released as development progresses.
 
 ---
 
-## 🌍 Structure
+## 🌍 Organizational Structure
 
 ZEN SKY LABS operates as a product-focused division under:
 
@@ -75,8 +74,8 @@ ZEN SKY LABS operates as a product-focused division under:
 
 For collaborations, partnerships, or inquiries:
 
-- Email: contact@zenskylabs.com *(update when ready)*
-- Website: https://zenskylabs.com *(coming soon)*
+- Email: contact@zenskylabs.com *(coming soon)*
+- Website: https://zenskylabs.com *(under development)*
 
 ---
 
@@ -87,4 +86,4 @@ All rights reserved unless otherwise specified.
 ---
 
 ### ZEN SKY LABS  
-Engineering Smart Systems.
+Building Smart Systems.
