@@ -2,7 +2,7 @@
 
 > Building intelligent systems for the future.
 
-ZEN SKY LABS is a software innovation division under **Future Innovations LK**, focused on designing and developing modern business management systems, automation tools, and scalable digital platforms.
+ZEN SKY LABS is a software innovation division under **Future Innovations LK**(https://futureinnovations.lk), focused on designing and developing modern business management systems, automation tools, and scalable digital platforms.
 
 ---
 
